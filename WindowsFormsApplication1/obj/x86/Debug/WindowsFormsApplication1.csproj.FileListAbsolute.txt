@@ -1,0 +1,115 @@
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Windows程序设计\期末大作业之月光拼图\版本1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ADMIN\Desktop\版本1.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ADMIN\Desktop\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ADMIN\Desktop\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+E:\Windows程序设计\期末大作业之月光拼图\版本1.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.6\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.7\版本1.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Difficult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Easy.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\版本1.8\版本1.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Windows程序设计\期末大作业之月光拼图\版本1.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Windows程序设计\期末大作业之月光拼图\版本1.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Windows程序设计\期末大作业之月光拼图\版本1.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
